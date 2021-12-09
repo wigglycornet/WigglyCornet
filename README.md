@@ -10,6 +10,6 @@ I am WiggyCornet786 or Artsui. I code discord bots and websites. Contact me on d
 
 ### -COMING SOON!
 
-[Come visit my website](https://wigglycornet.cf)!
+[Come visit my website](http://wigglycornet.cf)!
 
-## I am currently working on `A minecraft client`.
+#### I am currently working on `A minecraft client`.
