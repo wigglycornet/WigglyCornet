@@ -1,29 +1,16 @@
-## Welcome to GitHub Pages
+# Hello there 👋
 
-You can use the [editor on GitHub](https://github.com/Artsui/Artsui/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am WiggyCornet786 or Artsui. I code discord bots and websites. Contact me on discord 1WigglyCornet786#99641.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+### Lines SMP
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Alexxo Discord Bot
 
-```markdown
-Syntax highlighted code block
+### COMING SOON!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Come visit my website](https://wigglycornet.cf)!
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
