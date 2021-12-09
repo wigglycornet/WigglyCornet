@@ -4,12 +4,12 @@ I am WiggyCornet786 or Artsui. I code discord bots and websites. Contact me on d
 
 ## Projects
 
-### Lines SMP
+### -Lines SMP
 
-### Alexxo Discord Bot
+### -Alexxo Discord Bot
 
-### COMING SOON!
+### -COMING SOON!
 
 [Come visit my website](https://wigglycornet.cf)!
 
-##I amu currently working on `A minecraft client`.
+## I am currently working on `A minecraft client`.
