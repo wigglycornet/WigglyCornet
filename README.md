@@ -4,9 +4,9 @@ I am WiggyCornet786. I edit videos and I am a Part-time Developer and Designer. 
 
 ## Projects
 
-### -Lines SMP
+### -Lines SMP (Sadly closed)
 
-### -Alexxo Discord Bot
+### -WigglyCornet Public & Wiggly's Lounge (2500+ Members)
 
 ### -COMING SOON!
 
