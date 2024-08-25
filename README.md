@@ -11,8 +11,8 @@ I am WiggyCornet786. I edit videos and I am a Part-time Developer and Designer. 
 - [Dires Hosting](https://diresnode.com) - 3.7k+ Members
 - [Solar Hosting](https://solarhosting.cc) - 9k+ Members
 - PortKVM Project (closed)
-- [is-a.space](https://is-a.space) (retired) - 300+ Members
-- [CraftConnect/CraftyFutres](https://craftconnect.net) (retired) - 430+ Members
+- [is-a.space](https://is-a.space) (retired) - 1k+ Members
+- [CraftConnect/CraftyFutres](https://craftconnect.net) (retired) - 1k+ Members
 - Wiggly's Lifesteal SMP (closed)
 - Custom websites/systems just for you! DM me on discord for more information
 
