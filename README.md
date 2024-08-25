@@ -8,7 +8,7 @@ I am WiggyCornet786. I edit videos and I am a Part-time Developer and Designer. 
 
 - [Radio Papuc](https://radiopapuc.site)
 - [Hype Radio](https://hyperadio.net)
-- [Dires Hosting](https://diresnode.com) - 3.7k+ Members
+- [Dires Hosting](https://diresnode.com) - 6.4k+ Members
 - [Solar Hosting](https://solarhosting.cc) - 9k+ Members
 - PortKVM Project (closed)
 - [is-a.space](https://is-a.space) (retired) - 1k+ Members
